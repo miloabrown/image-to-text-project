@@ -23,7 +23,7 @@ function App() {
 
         let text = result.text;
         setText(text);
-        console.log(text, confidence);
+        console.log(text);
       });
   };
 
